@@ -15,5 +15,25 @@ img{width: 50rem;
 
 p1{
     font-size: 2rem;
-    font-style: italic;
+    font-style: italic  ;
+}
+
+h1:hover{
+color: black;
+font-size: 3rem ;
+}
+
+h1:active{
+    color: blue;
+    font-size: 2rem;
+}
+h1:visited{
+    color: red;
+    
+}
+
+.class-lang{
+    font-size: 2rem;
+    color: blue;
+    list-style: upper-roman;
 }
