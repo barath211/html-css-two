@@ -1,0 +1,31 @@
+.box-one{
+    background-color: coral;
+    height: 30rem;
+    width: 30rem;
+    padding:2rem 4rem 2rem 4rem;
+    border: 6px solid black;
+    border-radius: 3rem;
+    margin:2rem 20rem 1rem ;
+    box-shadow: 2px 4px 3rem darkgoldenrod;
+    
+}
+
+.box-two{
+    background-color:mediumseagreen ;
+    height: 25rem;
+    width: 25rem;
+    padding: 3rem 2rem 2rem 3rem ;
+border: 10px solid maroon;
+}
+
+
+h2{
+    background-color: aliceblue;
+    color: chartreuse;
+  height: 5rem;
+  width: 10rem ;
+  padding: 5rem 5rem 12rem 8rem;
+  border: 3px solid blue;
+  border-radius: 14px;
+text-align: center;
+}
