@@ -1,0 +1,22 @@
+
+/*  create links to button  */
+.bpo{
+    padding: 0.2rem 1.5rem;
+    text-decoration: none ;
+     font-size: 1rem;
+     font-weight: 800;
+     border-radius: 10px;
+
+}
+.link-telegram{
+     /* display: block;  (padding take height and width) */
+border: 5px solid beige;
+ background-color: beige;
+ color: black;
+}
+
+.link-twitter{
+border: 5px solid lightblue;
+ background-color: lightblue ;
+color: black;  
+}
