@@ -1,6 +1,6 @@
-
+/* 
 /*  create links to button  */
-.bpo{
+/* .bpo{
     padding: 0.2rem 1.5rem;
     text-decoration: none ;
      font-size: 1rem;
@@ -10,13 +10,62 @@
 }
 .link-telegram{
      /* display: block;  (padding take height and width) */
-border: 5px solid beige;
+/* border: 5px solid beige;
  background-color: beige;
  color: black;
-}
-
+} */
+/* 
 .link-twitter{
 border: 5px solid lightblue;
  background-color: lightblue ;
 color: black;  
 }
+
+/*  position */
+/* 
+.sq-one{
+background-color: blueviolet;
+padding: 14px;
+border: 12rem solid blueviolet;
+margin: 2rem;
+
+}
+
+.sq-two{
+     background-color: goldenrod;
+padding: 14px;
+border: 12rem solid goldenrod;
+margin: 2rem;
+}
+
+.sq-three{
+     background-color:lightgreen;
+padding: 14px;
+border: 12rem solid lightgreen;
+margin: 2rem;
+}
+
+.link-instagram{
+     text-decoration: none;
+     background-color: pink;
+     padding: 12px;
+     border: 1.5px solid black;
+     margin: 10px; 
+     
+} */
+
+/* .link-facebook{
+     text-decoration: none;
+     background-color: darkblue;
+     padding: 12px;
+     border: 1.5px solid black;
+     margin: 10px;
+     color: white;
+}
+.link-snap{
+     text-decoration: none;
+     background-color: yellowgreen;
+     padding: 16px 1rem;
+     border: 1.5px solid black;
+     margin: 10px;} */
+     
