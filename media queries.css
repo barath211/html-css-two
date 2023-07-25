@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightseagreen;
+    min-width: 100vh;
+    min-height: 100vh;
+  
+}
+.img{
+    width: 100;
+    height: auto;
+    object-fit: contain;
+}
+
+.title-name{
+    text-align: center;
+    font-weight: 900;
+    margin: 1rem;
+   
+}
+
+.box-one{
+background-color: thistle;
+width: 25rem;
+height: auto;
+border: 10px solid beige;
+border-radius: 12px;
+margin: 15rem 30rem ;
+}
+
+.img-one{
+width: 15rem;
+height: auto;
+margin: 2rem 4rem;
+border: 8px solid black;
+border-radius: 6px;
+
+}
+
+@media screen and (max-width:475px) {
+    body{
+        background-color: blueviolet;
+ 
+    }
+}
+
